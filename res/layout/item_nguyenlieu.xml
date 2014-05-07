@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <ImageView
+        android:id="@+id/imgnguyenlieu"
+        android:layout_width="79dp"
+        android:layout_height="114dp"
+        android:padding="2dp"
+        android:src="@drawable/sanpham"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/txtthongtinnguyenlieu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/th_ng_tin_n_h_ng"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</LinearLayout>
