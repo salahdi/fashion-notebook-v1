@@ -1,0 +1,1 @@
+quản lý may đo quy mô nhỏ
